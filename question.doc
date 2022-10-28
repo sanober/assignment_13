@@ -1,0 +1,24 @@
+ --------------Questions------------------- 
+
+
+Q. What is JavaScript ?
+A. The JavaScript programming language is text-based and can be used on both client and server-side. 
+    It controls multimedia within web pages and allows them to become interactive. 
+    JavaScript empowers a developer to do many things like adding animation to images or updating content automatically on a page. 
+
+Q. Write down difference between Declaration and Initialization a variable .
+A. Declaration tells the compiler about the existence of an entity in the program and its location. 
+    When you declare a variable, you should also initialize it. Initialization is the process of assigning a value to the Variable. 
+    Every programming language has its own method of initializing the variable.
+
+Q. In how many ways we can define a variable .
+A. (var,  let, const, Using nothing).
+
+Q. Is variable is case sensitive ?
+A. Yes, variable must always be typed with a consistent capitalization of letters.
+
+Q. When we declare a variable can we start it with any number?
+A. No.
+
+------------------------------------------------
+
